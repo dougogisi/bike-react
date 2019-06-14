@@ -1,0 +1,27 @@
+{
+  "name": "react-js-buy",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "redux": "^4.0.1",
+    "shopify-buy": "^2.2.4"
+  },
+  "devDependencies": {
+    "react-scripts": "0.9.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    "> 0.5%", "last 2 versions", "Firefox ESR", "not ie <= 10", "not ie_mob <= 10", "not bb <= 10", "not op_mob <= 12.1"
+  ]
+}
